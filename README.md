@@ -1,6 +1,6 @@
 # Hi, I'm Victor Bezerra 👋
 
-**Full Stack Developer** · Java · Spring Boot · Angular · TypeScript · AWS
+**Full Stack Developer** · Java · Spring Boot · Angular · TypeScript · AWS<br>
 📍 Recife, Brazil · 🌍 Open to **remote** roles and **relocation to Europe or the US** (with company support)
 
 I'm the sole developer at **Ômega Comércio Exterior**, where I own the full lifecycle of internal systems, from Java back end and Angular front end to MySQL databases, AWS infrastructure, security and day-to-day maintenance.
@@ -29,7 +29,7 @@ I'm the sole developer at **Ômega Comércio Exterior**, where I own the full li
 **Data & cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,7 +46,7 @@ REST API for a frame and art print shop. **Java 21 · Spring Boot 3 · Spring Se
 - Complete customer-service flow: products, customers and orders with status tracking
 
 ### [VB Art Shop](https://github.com/VBDeveloping/VB_Art_App)
-Full e-commerce flow, from login to checkout and order history. **React · Node.js/Express · PostgreSQL · JWT**
+Full e-commerce flow, from login to checkout and order history. **React · Node.js/Express · PostgreSQL · JWT**<br>
 The back end is being migrated to the Java/Spring Boot version above.
 
 ### [Store](https://github.com/VBDeveloping/Store)
