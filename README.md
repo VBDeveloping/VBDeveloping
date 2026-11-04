@@ -5,7 +5,7 @@
 
 I'm the sole developer at **Ômega Comércio Exterior**, where I own the full lifecycle of internal systems, from Java back end and Angular front end to MySQL databases, AWS infrastructure, security and day-to-day maintenance.
 
-- 🎓 B.Sc. in Systems Analysis & Development · Postgraduate in Full Stack Development (FECAP)
+- 🎓 Technology Degree (Tecnólogo) in Systems Analysis & Development · Postgraduate in Full Stack Development (FECAP)
 - 🧱 I care about clean architecture, layered/hexagonal design and code that is easy to maintain
 - 🗣️ English: intermediate, actively practicing technical conversation
 
